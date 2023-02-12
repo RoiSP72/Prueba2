@@ -22,4 +22,5 @@ public class Publicacion {
 	@Column(name = "contenido" ,nullable = false)
 	private String contenido;
 	
+	
 }

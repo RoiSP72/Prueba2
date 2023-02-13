@@ -63,4 +63,5 @@ public class PublicacionServicioImpl implements PublicacionServicio {
 		
 		return publicacionDTO;
 	
+	}
 }
